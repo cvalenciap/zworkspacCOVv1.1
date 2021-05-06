@@ -1,0 +1,5 @@
+package pe.com.covid.model;
+
+public class Usuario {
+
+}

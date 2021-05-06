@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: PreventCovid
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: USER
+Implementation-Vendor-Id: com.covid
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/OficinaComer
+ cialVirtual/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

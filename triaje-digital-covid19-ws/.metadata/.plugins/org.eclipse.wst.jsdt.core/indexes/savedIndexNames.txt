@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\USER\Documents\COVIDAPP\zworkspacCOVv1.1\triaje-digital-covid19-ws\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2239944902.index
+1330212367.index
+3698842536.index
+2702734437.index
+1573695645.index
+2105669391.index

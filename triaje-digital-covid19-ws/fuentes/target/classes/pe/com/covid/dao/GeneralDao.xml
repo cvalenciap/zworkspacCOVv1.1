@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="pe.com.covid.dao.GeneralDao">
+	
+	<resultMap id="GeneralResultMap" type="General">
+		<result property="idGeneral"			column="N_ID_GENERAL"/>
+		<result property="desGeneral"			column="V_DES_GENERAL"/>
+		<result property="desCorta"				column="V_DES_CORTA"/>
+    </resultMap>
+	
+	<select id="listaGeneral" statementType="CALLABLE" resultMap="GeneralResultMap">
+            SELECT * FROM COV_GENERAL WHERE N_ID_GENERAL = 1
+    </select>    
+    
+</mapper>
